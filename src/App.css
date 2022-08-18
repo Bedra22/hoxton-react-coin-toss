@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.flip-a-coin ul {
+    list-style: none;
+    display: grid;
+    grid-auto-flow: column;
+    width: 40%;
+    margin-left: 27%;
+}
+
+.flip-a-coin img {
+    width: 150px;
+    height: 150px;
+}
+
+.flip-a-coin button {
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
